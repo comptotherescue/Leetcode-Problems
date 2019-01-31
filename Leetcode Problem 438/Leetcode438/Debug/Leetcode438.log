@@ -1,0 +1,4 @@
+﻿  Leetcode438.cpp
+c:\users\akulk\source\repos\leetcode438\leetcode438\leetcode438.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\akulk\source\repos\leetcode438\leetcode438\leetcode438.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Leetcode438.vcxproj -> C:\Users\akulk\source\repos\Leetcode438\Debug\Leetcode438.exe
